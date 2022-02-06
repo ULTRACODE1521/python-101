@@ -3,6 +3,7 @@ mypen = turtle.Turtle()
 mypen.penup()
 mypen.forward(100)
 mypen.down()
+mypen.speed(75)
 
 mypen.color("black")
 mypen.right(90)
