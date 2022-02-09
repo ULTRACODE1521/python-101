@@ -3,9 +3,9 @@ mypen = turtle.Turtle()
 mypen.penup()
 mypen.forward(100)
 mypen.down()
-mypen.speed(75)
+mypen.speed(70)
 
-mypen.color("black")
+mypen.color("gold1")
 mypen.right(90)
 mypen.left(180)
 mypen.forward(500)
@@ -27,6 +27,7 @@ for i in range(1):
     mypen.left(90)
     mypen.forward(250)
 mypen.end_fill()
+
 
 mypen.penup()
 mypen.goto(-25,385)
