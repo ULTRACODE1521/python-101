@@ -28,6 +28,15 @@ for i in range(1):
     mypen.forward(250)
 mypen.end_fill()
 
+mypen.penup()
+mypen.goto(-25,385)
+mypen.down()
+mypen.color("black")
+mypen.circle(55)
+mypen.begin_fill()
+for i in range (1):
+    mypen.circle(55)
+mypen.end_fill()
 
 mypen.penup()
 mypen.goto(-25,385)
@@ -42,11 +51,31 @@ mypen.end_fill()
 mypen.penup()
 mypen.goto(-25,215)
 mypen.down()
+mypen.color("black")
+mypen.circle(55)
+mypen.begin_fill()
+for i in range (1):
+    mypen.circle(55)
+mypen.end_fill()
+
+mypen.penup()
+mypen.goto(-25,215)
+mypen.down()
 mypen.color("yellow")
 mypen.circle(50)
 mypen.begin_fill()
 for i in range(1):
     mypen.circle(50)
+mypen.end_fill()
+
+mypen.penup()
+mypen.goto(-25,65)
+mypen.down()
+mypen.color("black")
+mypen.circle(55)
+mypen.begin_fill()
+for i in range (1):
+    mypen.circle(55)
 mypen.end_fill()
 
 mypen.penup()
