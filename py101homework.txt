@@ -1,0 +1,7 @@
+def print_inches_per_centimeter(centimeters):
+     millimeters = centimeters * 10
+     inches = millimeters / 25.4
+     print (inches)
+
+print_inches_per_centimeter(1)
+
