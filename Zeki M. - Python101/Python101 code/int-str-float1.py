@@ -1,0 +1,11 @@
+x = int(2)
+z = int("5")
+z1 = float("6")
+x2 = str("b1")
+z3 = str(6.0)
+
+print(x)
+print(z)
+print(z1)
+print(x2)
+print(z3)
