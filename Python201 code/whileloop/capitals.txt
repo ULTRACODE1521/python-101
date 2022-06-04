@@ -1,0 +1,6 @@
+Japan/Tokyo
+Italy/Rome
+Iran/Tehran
+Germany/Berlin
+India/Delhi
+Canada/Ottawa
